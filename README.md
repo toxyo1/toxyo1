@@ -35,8 +35,8 @@
       <hr>
       <h3>Certificações</h3>
       <div align="left">
-        <img src="./suporte.png" height="105" alt="Certificação Suporte" />
-        <img src="./python.png" height="105" alt="Certificação Python" />
+        <img src="./suporte.png.png" height="105" alt="Certificação Suporte" />
+        <img src="./python.png.png" height="105" alt="Certificação Python" />
       </div>
     </td>
   </tr>
