@@ -30,12 +30,13 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
       </div>
       <hr>
       <h3>Certificações</h3>
       <div align="left">
-        <img src="suporte.png" height="105" alt="Certificação Suporte" />
-        <img src="python.png" height="105" alt="Certificação Python" />
+        <img src="./suporte.png" height="105" alt="Certificação Suporte" />
+        <img src="./python.png" height="105" alt="Certificação Python" />
       </div>
     </td>
   </tr>
@@ -46,8 +47,3 @@
 <div align="center">
   <sub>Feito com ✨ por **Marian**</sub>
 </div>
-
-
-<img width="600" height="600" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/0d9cf8d3-d618-4714-aae6-20109adfed46" />
-<img width="190" height="190" alt="certificado-profissional-de-suporte-em-ti-do-google" src="https://github.com/user-attachments/assets/9e8acbf2-df6f-4b6c-bb97-a35cc70347a5" />
-
