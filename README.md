@@ -45,5 +45,5 @@
 ---
 
 <div align="center">
-  <sub>Feito com ✨ por **Marian**</sub>
+  <sub>Feito por Marian ✨</sub>
 </div>
