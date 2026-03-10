@@ -30,13 +30,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
-        <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40" height="40" />
       </div>
       <hr>
       <h3>Certificações</h3>
       <div align="left">
-        <img src="suporte.png" height="110" />
-        <img src="python.png" height="110" />
+        <img src="suporte.png.png" height="110" />
+        <img src="python.png.png" height="110" />
       </div>
     </td>
   </tr>
@@ -45,5 +44,5 @@
 ---
 
 <div align="center">
-  <sub>Feito com ✨ por **Marian**</sub>
+  <sub>Feito por Marian ✨ </sub>
 </div>
