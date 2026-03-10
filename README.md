@@ -30,7 +30,6 @@ Graduanda em ADS & Engenharia de Software. Apaixonada por transformar lógica em
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-Robot-444444?style=for-the-badge&logo=zapier&logoColor=white" />
 </div>
 
 ---
