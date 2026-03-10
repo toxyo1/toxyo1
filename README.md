@@ -49,5 +49,5 @@ Graduanda em ADS & Engenharia de Software. Apaixonada por transformar lógica em
 ---
 
 <div align="center">
-  <sub>Feito com ✨ por <a href="https://github.com/toxyo1">Toxio</a></sub>
+  <sub>Feito com ✨ por <a href="https://github.com/toxyo1">Marian</a></sub>
 </div>
