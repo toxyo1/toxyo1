@@ -53,8 +53,8 @@
       <hr>
       <h3>Certificações</h3>
       <div align="left">
-        <img src="suporte.png.png" height="110" />
-        <img src="python.png.png" height="110" />
+        <img src="suporte.png.png" height="100" />
+        <img src="python.png.png" height="100" />
       </div>
     </td>
   </tr>
