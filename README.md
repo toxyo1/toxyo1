@@ -1,5 +1,5 @@
 ## ✨ Sobre mim
-- Engenheira e analista de Dados em formação
+- Engenheira e Analista de Dados em formação
 - Sou graduanda em Análise e Desenvolvimento de Sistemas e venho direcionando meus estudos para Dados e IA. Tenho desenvolvido projetos e estudado Python, SQL, Pandas, Power BI e ETL/ELT, além de estar aprofundando meus conhecimentos em Engenharia de Dados, Databricks, Machine Learning e Engenharia de IA. Aqui compartilho meus estudos, exercícios e projetos enquanto desenvolvo minhas habilidades nessas áreas.
 
 ## 💻 Áreas de foco
