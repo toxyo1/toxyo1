@@ -1,6 +1,6 @@
 <div align="center">
   <!-- BANNER -->
-  <img src="fundo4.png" alt="Marian Lopes" width="100%" />
+  <img src="flower kitty.jpeg" alt="Marian Lopes" height="250"/>
   <br/><br/>
   
   <!-- BOTÕES DE CONTATO -->
