@@ -1,67 +1,36 @@
 <div align="center">
-  <h1>Olá! Eu sou a Marian 💖</h1>
+  <!-- BANNER -->
+  <img src="fundo4.png" alt="Marian Lopes" width="100%" />
+  <br/><br/>
+  
+  <!-- BOTÕES DE CONTATO -->
+  <a href="https://linkedin.com/in/marian-lopes999" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:marian-321@hotmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
----
+<br/>
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Sobre mim</h3>
-      <p>Graduanda em <b>ADS & Engenharia de Software</b>. Apaixonada por transformar lógica em <b>automações inteligentes</b>. Atualmente, foco meus estudos no ecossistema <b>Full Stack</b> e na integração de <b>IA</b> para otimizar processos e criar soluções escaláveis.</p>
-      <ul>
-        <li>🎓 Graduanda em ADS & Engenharia de Software</li>
-        <li>👩‍💻 Desenvolvedora Full Stack em formação</li>
-        <li>🚀 Entusiasta de IA</li>
-      </ul>
-      <br>
-      <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=toxyo1&theme=dark&hide_border=false&border_radius=5" width="100%" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Tecnologias & Ferramentas</h3>
-<table border="0">
+<table width="100%" style="border: none;">
   <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+    <td width="55%" valign="top" style="border: none; border-right: 1px solid #444; padding-right: 20px;">
+      <h3>Olá! Eu sou a Marian 👋</h3>
+      <b>Engenheira de Dados e Analista de Dados em formação</b><br/><br/>
+      Sou graduanda em <b>Análise e Desenvolvimento de Sistemas</b> e <b>Engenharia de Software</b>. Sou focada na construção de pipelines ETL/ELT eficientes, modelagem relacional e análise exploratória para transformar dados brutos em decisões estratégicas de negócio.<br/><br/>
+      Atualmente, dedico meus estudos e projetos práticos ao ecossistema de <b>Python</b>, <b>SQL</b>, <b>Databricks</b> e visualização com <b>Power BI</b>, integrando automações e conceitos de Inteligência Artificial para otimizar fluxos de dados.
     </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+    <td width="45%" valign="top" style="border: none; padding-left: 20px;">
+      <h3>🛠️ Tecnologias & Ferramentas</h3>
+      <b>Linguagens:</b> Python, SQL, Java<br/>
+      <b>Engenharia:</b> ETL/ELT, Databricks, MySQL<br/>
+      <b>Análise & BI:</b> Power BI, Pandas, NumPy<br/>
+      <b>Ambiente:</b> Git, GitHub, VS Code, Linux<br/><br/>
+      <h3>📜 Certificações</h3>
+      <img src="https://img.shields.io/badge/Google-Suporte_em_TI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google IT" />
+      <img src="https://img.shields.io/badge/Cisco-Python_Essentials-049fd9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Python" />
     </td>
   </tr>
 </table>
-<hr>
-      <hr>
-      <h3>Certificações</h3>
-      <div align="left">
-        <img src="suporte.png.png" height="100" />
-        <img src="python.png.png" height="100" />
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <sub>Feito por Marian ✨ </sub>
-</div>
