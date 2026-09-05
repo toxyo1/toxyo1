@@ -1,11 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Marian%20Lopes&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Engenheira%20de%20Dados%20e%20Analista%20de%20Dados%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=toxyo1">
-    <img src="https://komarev.com/ghpvc/?username=toxyo1&label=Profile%20views&color=00FFFF&style=flat-square" alt="toxyo1's profile views" />
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
