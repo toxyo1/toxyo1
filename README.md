@@ -9,14 +9,14 @@
 
 <table width="100%" style="border: none;"><tr>
 <td width="50%" valign="top" style="border: none; border-right: 1px solid #444; padding-right: 20px;">
-<h2>📊 Estatísticas do GitHub </h2>
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 <br>
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=toxyo1&theme=cobalt&hide_border=true&cache_seconds=86400" alt="toxyo1's GitHub Streak" width="100%" />
 </p>
 </td>
 <td width="50%" valign="top" style="border: none; padding-left: 20px;">
-<h2>🛠️ Linguagens & Ferramentas</h2>
+<h2 align="center">🛠️ Linguagens & Ferramentas</h2>
 <br><br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
