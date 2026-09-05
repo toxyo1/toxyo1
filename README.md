@@ -1,8 +1,6 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" height="250" />
-
-## 📌 About Me
-- Engenharia de Dados e Análise de Dados em formação
-- Sou graduanda em Análise e Desenvolvimento de Sistemas e venho direcionando meus estudos para Dados e IA. Tenho desenvolvido projetos e estudado Python, SQL, Pandas, Power BI e ETL/ELT, além de estar aprofundando meus conhecimentos em Engenharia de Dados, Databricks e Machine Learning. Aqui compartilho meus estudos, exercícios e projetos enquanto desenvolvo minhas habilidades na área.
+## 📌 Sobre mim
+- Engenheira e analista de Dados em formação
+- Sou graduanda em Análise e Desenvolvimento de Sistemas e venho direcionando meus estudos para Dados e IA. Tenho desenvolvido projetos e estudado Python, SQL, Pandas, Power BI e ETL/ELT, além de estar aprofundando meus conhecimentos em Engenharia de Dados, Databricks, Machine Learning e Engenharia de IA. Aqui compartilho meus estudos, exercícios e projetos enquanto desenvolvo minhas habilidades nessas áreas.
 
 
 ## 🧠 My Focus Areas
